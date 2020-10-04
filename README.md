@@ -1,13 +1,6 @@
 # Leetcode solutions
 
 This repository is for implementation of Leetcode questions in different languages
-## Want to contribute
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
 
 ## Project structure
 
