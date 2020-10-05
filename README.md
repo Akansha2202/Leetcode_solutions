@@ -7,7 +7,7 @@ This repository is for implementation of Leetcode questions in different languag
 The repo is structured like
 
 - Problem Tag 
-    + Problem Name/numbe
+    + Problem Number
         - Implementation - Source Code
  
 
